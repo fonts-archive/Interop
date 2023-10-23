@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Interop';
@@ -12,7 +12,7 @@ font-family: 'Interop';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Interop/Interop.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/Interop/Interop.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -103,4 +103,23 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Interop/Interop-ExtraBold.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Interop/Interop-ExtraBold.otf') format('opentype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+
+Copyright (c) 2023 Jang Haemin (jhaemin.com) 
+ 
+This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+This license is copied below, and is also available with a FAQ at: 
+http://scripts.sil.org/OFL 
+ 
+----------------------------------------------------------- 
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 
+----------------------------------------------------------- 
+ 
+라이선스 전문 보기
 ```
